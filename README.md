@@ -6,3 +6,6 @@ based on https://www.grasshopper3d.com/forum/topics/iso-screw-thread integrated 
 
 ## pcExport***.ghcluster
 preset cluster of Pancake export function
+
+## Zebra.ghcluster
+show zebra in Grasshopper
